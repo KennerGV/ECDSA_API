@@ -1,0 +1,88 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# Publish results
+publish/
+*.Publish.xml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.psmdcp
+
+# Configuration files
+*.userprefs
+*.localhistory/
+*.idea/
+*.vscode/
+
+# Debug files
+*.pdb
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# IIS Express
+*.vspscc
+*.vssscc
+*.dbmdl
+
+# Rider and ReSharper
+*.DotSettings.user
+_ReSharper*/
+
+# Others
+TestResults/
+*.coverage
+*.coveragexml
+*.codeanalysis
+
+# Entity Framework
+Migrations/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Blazor specific
+wwwroot/
+node_modules/
+*.client.js
+*.server.js
+*.wasm
+*.blat
+*.dll
+*.dat
+*.gz
+*.br
+
+# .NET 8 SDK artifacts
+artifacts/
+*.csproj.user
+*.global.json
+
+# Static web assets
+obj/Debug/net8.0/staticwebassets/
+obj/Release/net8.0/staticwebassets/
+
+# Razor component cache
+ComponentModelCache/
+
+# Environment files
+.env
+.env.*
